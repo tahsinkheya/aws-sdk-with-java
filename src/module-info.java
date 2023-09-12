@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tahsin
+ *
+ */
+module awsJava {
+}
